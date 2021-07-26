@@ -1,0 +1,8 @@
+PROJECT_NAME           = "rtris"
+PROJECT_BRIEF          = "Tetris in Rust"
+PROJECT_LOGO           = doc/logo.png
+GENERATE_LATEX         = NO
+HTML_OUTPUT            = docs
+WARN_IF_UNDOCUMENTED   = NO
+USE_MDFILE_AS_MAINPAGE = README.md
+INPUT                  = README.md
